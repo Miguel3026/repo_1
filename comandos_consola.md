@@ -1,0 +1,12 @@
+Comandos: 
+- mkdir: se usa para crear una carpeta 
+- pwd: para ver en que carpeta estas
+- ls y ls -l: se usa para ver las carpetas y archivos que hay
+- cd: ingresas a una carpeta 
+- cd .. : sales de la carpeta
+- touch: crea una carpeta 
+- rm: borra archivos 
+- git init: crea un repositorio
+- git status: muestra el estado del proyecto
+- git commit -m: guarda los cambios 
+- git add . : agraga todos los archivos 
