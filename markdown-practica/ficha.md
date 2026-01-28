@@ -1,10 +1,18 @@
-# Título principal: Mi ficha de Markdown✈️
+# Ficha personal de Markdown ✈️✈️
 
 ## 👤 Presentación
 Hola, soy **Miguel Loaiza** y esta es mi primera ficha en Markdown.
 
 ### 🎯 Objetivo de esta ficha
 Aprender a escribir documentos claros y bonitos usando Markdown.
+
+## ✍️ Formato de texto
+
+- **Negrita:** **realizamos mejoras continuas en sistemas operativos**
+- *Cursiva:* *comenzamos con diferentes axtividades*
+- ~~Tachado:~~ ~~otro titulo~~
+- Resaltado (si tu plataforma lo soporta): ==<<texto resaltado>>==
+- Código en línea: `print("Hola Markdown")`
 
 ## ✅ Listas útiles
 
