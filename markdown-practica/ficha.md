@@ -29,11 +29,11 @@ Aprender a escribir documentos claros y bonitos usando Markdown.
 ## 🔗 Enlaces
 
 Mi página favorita para aprender:
-- [<<IA>>](<<https://chatgpt.com/c/697a636d-6818-832d-86ff-c38b07738015>>)
+- [ **CHAT GPT* ](https://chatgpt.com/c/697a636d-6818-832d-86ff-c38b07738015)
 
 Un video recomendado:
-- [<<canción bruno mars>>](<<https://youtu.be/mrV8kK5t0V8?si=LIpM_BCkm-inG99E>>)
+- [**Canción bruno mars**](https://youtu.be/mrV8kK5t0V8?si=LIpM_BCkm-inG99E)
 
-## 🖼️ Imagen
+## 🖼️ Imagen Atronautca
 
-![astronauta](<<https://www.elcomercio.com/wp-content/uploads/2023/05/astronauta-encontro-tesoros-desde-espacio-oculto-nasa.jpg>>)
+![astronauta](https://www.elcomercio.com/wp-content/uploads/2023/05/astronauta-encontro-tesoros-desde-espacio-oculto-nasa.jpg)
